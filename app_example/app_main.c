@@ -3,7 +3,6 @@
 #include "task.h"
 
 
-
 void app_example(void)
 {
     RTK_LOGI(TAG, "Customize wifi connect demo start!\r\n");    
